@@ -61,7 +61,7 @@ Unidecode==0.4.21
 urllib3==1.22
 webargs==1.8.1
 webencodings==0.5.1
-Werkzeug==0.12
+Werkzeug==0.15.3
 wsgi-request-logger==0.4.6
 xlrd==1.1.0
 zappa==0.44.3
