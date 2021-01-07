@@ -29,7 +29,7 @@ isodate==0.6.0
 jmespath==0.9.3
 kappa==0.6.0
 lambda-packages==0.16.1
-lxml==4.1.0
+lxml==4.6.2
 marshmallow==2.13.6
 mechanize==0.3.6
 mock==2.0.0
